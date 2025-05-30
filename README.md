@@ -1,5 +1,4 @@
-# Oscars-awards-analysis
-Project Title: Oscar Awards Historical Analysis (1928–2025)
+#  Oscars Awards Historical Analysis (1928–2025)
 
 Description:
 This project explores the Oscar Awards dataset from 1928 to 2025 with a focus on uncovering historical trends, demographic patterns, and disparities across categories. Using Python (Pandas, Matplotlib, Seaborn), we perform exploratory data analysis (EDA) and build visualizations that highlight insights such as:
